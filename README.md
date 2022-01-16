@@ -42,7 +42,7 @@
 #### 친구추가 및 댓글/공감
 ![사용자_친구추가및댓글](https://user-images.githubusercontent.com/86812172/149652105-220a60ce-b812-4ba9-80d0-06c08c50b708.gif)
 #### 채팅
-![채팅](/img/사용자_채팅.gif)
+![사용자_채팅](https://user-images.githubusercontent.com/86812172/149652157-c74ce945-ddd8-4976-a334-23b37cb6bdd7.gif)
 #### 게시물 등록 및 수정
 ![게시물](/img/사용자_게시물.gif)
 #### 마이페이지
