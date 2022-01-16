@@ -46,7 +46,7 @@
 #### 게시물 등록 및 수정
 ![게시물](/img/사용자_게시물.gif)
 #### 마이페이지
-![마이페이지](/img/사용자_마이페이지.gif)
+![사용자_마이페이지](https://user-images.githubusercontent.com/86812172/149652186-aeadddaf-20ac-4415-96a2-33ac2070b9f0.gif)
 #### 로그아웃
 ![사용자_로그아웃](https://user-images.githubusercontent.com/86812172/149652071-d02d2ade-3199-45f8-99f1-30a72a206e5d.gif)
 #### 관리자 대시보드
