@@ -37,8 +37,10 @@
 ### 구현 화면**
 #### 회원가입 및 로그인
 ![사용자_회원가입로그인](https://user-images.githubusercontent.com/86812172/149651996-9e14e78b-5999-46e4-876c-bd7075aa0c95.gif)
-#### 아이디 및 비밀번호 찾기
-![아디_비번](/img/사용자_아디_비번찾기.gif)
+#### 아이디 찾기
+![Us-Chrome-2022-01-27-16-31-49](https://user-images.githubusercontent.com/86812172/151313808-a656dcc5-cac0-4703-9663-25158bf0ddd1.gif)
+#### 비밀번호 찾기
+
 #### 친구추가 및 댓글/공감
 ![사용자_친구추가및댓글](https://user-images.githubusercontent.com/86812172/149652105-220a60ce-b812-4ba9-80d0-06c08c50b708.gif)
 #### 채팅
