@@ -40,7 +40,7 @@
 #### 아이디 찾기
 ![Us-Chrome-2022-01-27-16-31-49](https://user-images.githubusercontent.com/86812172/151313808-a656dcc5-cac0-4703-9663-25158bf0ddd1.gif)
 #### 비밀번호 찾기
-
+![Us-Chrome-2022-01-27-16-37-48](https://user-images.githubusercontent.com/86812172/151314250-866e29d3-52d6-4087-82db-f500cceb9089.gif)
 #### 친구추가 및 댓글/공감
 ![사용자_친구추가및댓글](https://user-images.githubusercontent.com/86812172/149652105-220a60ce-b812-4ba9-80d0-06c08c50b708.gif)
 #### 채팅
