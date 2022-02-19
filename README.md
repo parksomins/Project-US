@@ -1,6 +1,6 @@
-![us 로고](https://user-images.githubusercontent.com/86812172/154805979-73417767-024d-4b76-8d9e-a565f1214d18.png)
 
 # Us(project2) 웹 소셜 플랫폼
+![us 로고](https://user-images.githubusercontent.com/86812172/154805979-73417767-024d-4b76-8d9e-a565f1214d18.png)
 ### 프로젝트 개요
 ##### -  개발 기간  :  2021.11.08 ~ 2021.12.24
 ##### -  주제  :  소셜 채팅 플랫폼
