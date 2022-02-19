@@ -1,6 +1,6 @@
 
 # Us(project2) 웹 소셜 플랫폼
-![us 로고](https://user-images.githubusercontent.com/86812172/154805979-73417767-024d-4b76-8d9e-a565f1214d18.png)
+![us로고2](https://user-images.githubusercontent.com/86812172/154806427-73bc0cf4-f838-4c8d-a5a9-c15db70facfb.png)
 
 ### 프로젝트 개요
 ##### -  개발 기간  :  2021.11.08 ~ 2021.12.24
