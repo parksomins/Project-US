@@ -57,7 +57,7 @@
 ![us-어드민 사이트 구성도2](https://user-images.githubusercontent.com/86812172/154833350-a2b784fc-54a0-4ac0-9012-c58990e68be5.png)
 
 ### 스토리보드
-![us-사용자 스토리보드3](https://user-images.githubusercontent.com/86812172/154833974-a447adb9-b866-47bf-acf8-51bb7dedcff7.png)
+![us-사용자 스토리보드4](https://user-images.githubusercontent.com/86812172/154834198-5480352d-ab93-49f8-8d64-628b6f30d88b.png)
 
 ### 개선해야할 점 
 + 그룹채팅이 안되고 1:1 채팅만 가능한 점
