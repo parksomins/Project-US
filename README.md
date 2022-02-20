@@ -66,8 +66,6 @@
 ![사용자_로그아웃](https://user-images.githubusercontent.com/86812172/149652071-d02d2ade-3199-45f8-99f1-30a72a206e5d.gif)
 #### 관리자 회원관리
 ![관리자_회원관리](https://user-images.githubusercontent.com/86812172/154832850-11bc1f31-6c71-46ad-9963-e2d7eb63c947.gif)
-#### 관리자 게시물관리
-![관리자_게시물관리](https://user-images.githubusercontent.com/86812172/154809438-5cb5731e-b879-4541-bd96-32d1069b54a5.gif)
 #### 관리자 채팅관리
 ![관리자_채팅관리](https://user-images.githubusercontent.com/86812172/154832818-b3814386-f8ea-40d6-89ae-9a2ae14aadf5.gif)
 #### 관리자 문의사항
