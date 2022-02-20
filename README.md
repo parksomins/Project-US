@@ -50,7 +50,12 @@
   + 개인코드를 통해 친구 연결 및 해지 가능
 
 ### 사이트 구성도
-![User구조도](https://user-images.githubusercontent.com/86812172/154833157-61d8ae64-d2a1-4bc7-bc56-37dc3ade8f5f.png)![us-어드민 사이트 구성도2](https://user-images.githubusercontent.com/86812172/154833161-ea5acafd-5a1c-42c7-9906-cd3a97853ceb.png)
+**사용자 페이지**
+![us-사이트구성도](https://user-images.githubusercontent.com/86812172/154833272-3c0c5980-9391-4fb4-9261-ec755d1dd632.png)
+
+**관리자 페이지**
+[us-어드민 사이트 구성도2](https://user-images.githubusercontent.com/86812172/154833161-ea5acafd-5a1c-42c7-9906-cd3a97853ceb.png)
+
 
 ### 개선해야할 점 
 + 그룹채팅이 안되고 1:1 채팅만 가능한 점
