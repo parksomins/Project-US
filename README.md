@@ -56,6 +56,10 @@
 **관리자 페이지**
 ![us-어드민 사이트 구성도2](https://user-images.githubusercontent.com/86812172/154833350-a2b784fc-54a0-4ac0-9012-c58990e68be5.png)
 
+### 스토리보드
+![us-사용자 스토리보드](https://user-images.githubusercontent.com/86812172/154833852-54efd831-37c7-4ff9-9c98-f9716512eeef.png)
+
+
 ### 개선해야할 점 
 + 그룹채팅이 안되고 1:1 채팅만 가능한 점
 
