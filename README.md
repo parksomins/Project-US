@@ -52,28 +52,26 @@
 ### 구현 화면
 #### 회원가입 및 로그인
 ![사용자_회원가입로그인](https://user-images.githubusercontent.com/86812172/149651996-9e14e78b-5999-46e4-876c-bd7075aa0c95.gif)
-#### 아이디 찾기
-![Us-Chrome-2022-01-27-16-31-49](https://user-images.githubusercontent.com/86812172/151313808-a656dcc5-cac0-4703-9663-25158bf0ddd1.gif)
-#### 비밀번호 찾기
-![Us-Chrome-2022-01-27-16-37-48](https://user-images.githubusercontent.com/86812172/151314250-866e29d3-52d6-4087-82db-f500cceb9089.gif)
+#### 아이디/비밀번호 찾기
+![사용자_아이디_비밀번호 찾기](https://user-images.githubusercontent.com/86812172/154832869-32ddec94-d08d-4fe4-b0ae-796344357a63.gif)
 #### 친구추가 및 댓글/공감
 ![사용자_친구추가및댓글](https://user-images.githubusercontent.com/86812172/149652105-220a60ce-b812-4ba9-80d0-06c08c50b708.gif)
 #### 채팅
 ![사용자_채팅](https://user-images.githubusercontent.com/86812172/149652157-c74ce945-ddd8-4976-a334-23b37cb6bdd7.gif)
 #### 게시물 등록 및 수정
-![게시물](/img/사용자_게시물.gif)
+![사용자_게시물등록](https://user-images.githubusercontent.com/86812172/154832799-b551b1e1-968f-40ae-9023-fc56c020773d.gif)
 #### 마이페이지
 ![사용자_마이페이지](https://user-images.githubusercontent.com/86812172/149652186-aeadddaf-20ac-4415-96a2-33ac2070b9f0.gif)
 #### 로그아웃
 ![사용자_로그아웃](https://user-images.githubusercontent.com/86812172/149652071-d02d2ade-3199-45f8-99f1-30a72a206e5d.gif)
-#### 관리자 대시보드
-![대시보드](/img/관리자_대시보드.gif)
 #### 관리자 회원관리
-![회원관리](/img/관리자_회원관리.gif)
+![관리자_회원관리](https://user-images.githubusercontent.com/86812172/154832850-11bc1f31-6c71-46ad-9963-e2d7eb63c947.gif)
 #### 관리자 게시물관리
 ![관리자_게시물관리](https://user-images.githubusercontent.com/86812172/154809438-5cb5731e-b879-4541-bd96-32d1069b54a5.gif)
 #### 관리자 채팅관리
-![채팅관리](/img/관리자_채팅관리.gif)
+![관리자_채팅관리](https://user-images.githubusercontent.com/86812172/154832818-b3814386-f8ea-40d6-89ae-9a2ae14aadf5.gif)
+#### 관리자 문의사항
+![관리자_문의사항](https://user-images.githubusercontent.com/86812172/154832836-26133197-2c59-4b3d-97ac-595620dc7a5c.gif)
 
 <br>
 
