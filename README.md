@@ -1,5 +1,5 @@
 
-# Us(project2) 웹 소셜 플랫폼
+# Us - 웹 소셜 플랫폼
 ![us로고2](https://user-images.githubusercontent.com/86812172/154806427-73bc0cf4-f838-4c8d-a5a9-c15db70facfb.png)
 
 ### 프로젝트 개요
